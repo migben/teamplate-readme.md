@@ -63,8 +63,8 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 Thanks to the following people who have contributed:
 
 * @migben 📖 
-* @developer1 💻🍔
-* @etc.... 🌮💻
+* @dev01 💻🍔
+* @etc... 🌮💻
 
 You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors).
 
