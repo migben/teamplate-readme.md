@@ -7,10 +7,10 @@
 # Project name
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here ---> 
-![GitHub repo size](https://img.shields.io/github/repo-size/migben/teamplate-readme.md)
-![GitHub contributors](https://img.shields.io/github/contributors/migben/teamplate-readme.md)
-![GitHub stars](https://img.shields.io/github/stars/migben/teamplate-readme.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/migben/teamplate-readme.md?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/migben/template-readme.md)
+![GitHub contributors](https://img.shields.io/github/contributors/migben/template-readme.md)
+![GitHub stars](https://img.shields.io/github/stars/migben/template-readme.md?style=social)
+![GitHub forks](https://img.shields.io/github/forks/migben/template-readme.md?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/SutzakuX?style=social)
 
 Additional line of information text about what the project does. It should be around 2 or 3 sentences.
