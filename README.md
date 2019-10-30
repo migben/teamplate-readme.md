@@ -2,6 +2,8 @@
 
 [ReadmeGuide](https://www.makeareadme.com/#template-1)
 
+----
+
 # Project name
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here ---> 
