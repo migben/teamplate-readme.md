@@ -1,6 +1,8 @@
 ### Reference Guide
 
-[ReadmeGuide](https://www.makeareadme.com/#template-1)
+Guide that will provide set of example and resources to enrich your readme.
+
+[here](https://www.makeareadme.com/#template-1)
 
 ----
 
